@@ -1,0 +1,26 @@
+=================================================================
+  SCENE 09  —  الصدمة الأولى: تجاهل المتكبرين والاتجاه للبطل
+  Timing : 1:20 – 1:30   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC09_WALKING_PAST_THE_ARROGANT.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC09 — 1:20–1:30 — Chairman Gu walks straight past Jin-woo's outstretched hand without looking and stops before Tae-hyun
+FRAMES: Start directly from uploaded start frame SC09_WALKING_PAST_THE_ARROGANT.png (1080x1920, 30fps).
+CONTINUITY: Exact luxury Seoul grand cream-marble banquet hall, glowing crystal chandeliers, polished marble floor, and tall dark-walnut double entrance doors centered in the background. Strictly locked Korean live-action actors and outfits: ON THE LEFT, Kang Tae-hyun (29, tall handsome Korean man, plain dark-charcoal wool jacket over washed off-white crew t-shirt, dark grey trousers, worn black-and-white canvas sneakers); ON THE RIGHT, Park Jin-woo (31, burgundy velvet dinner blazer, white dress shirt, black bow-tie), Choi Seo-yeon (27, off-shoulder emerald-green silk evening gown, pearl earrings), Han Do-jin (32, silver-rimmed glasses, midnight-navy double-breasted suit, silver tie), and Yoon Mi-rae (26, champagne-ivory satin evening dress). Strictly front / front-three-quarter camera angle throughout; candid natural eye lines between characters only.
+ACTION AND TIMING:
+- 0.0s–4.5s: Chairman Gu brushes right past Jin-woo's frozen outstretched hands without a single glance, walking directly toward Tae-hyun on the left.
+- 4.5s–8.0s: Jin-woo's flattering smile freezes into utter confusion as he turns his head slowly left; Seo-yeon and Do-jin stare wide-eyed.
+- 8.0s–10.0s: Chairman Gu halts respectfully two steps in front of Tae-hyun on the left, bringing his feet together at attention.
+DIALOGUE: Jin-woo stammers in confused quiet Korean (04.5s–07.5s): "구… 구 회장님…?"
+CAMERA: Static 35mm front shot on tripod; natural depth focus across all six characters.
+SOUND: Firm footsteps stopping abruptly on marble, dead stunned silence falling over the room, hesitant stammered Korean line. Strictly ZERO music.
+END FRAME: Chairman Gu standing at strict respectful attention facing Tae-hyun on the left while the elite group watches in disbelief on the right.
+NEGATIVE: NO background music, NO orchestral score, NO musical instruments, NO singing, NO rear camera, NO back-to-camera shots, NO looking directly into camera lens, NO camera zoom, NO whip pan, NO CGI/cartoon look, NO deformed hands or extra fingers, NO clothing swap, NO eyeglasses swap, NO on-screen text, NO subtitles, NO logos, NO watermarks.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC09_WALKING_PAST_THE_ARROGANT.png في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. لا تعدّل على الكاميرا (ثابتة دائماً).
+=================================================================

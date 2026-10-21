@@ -1,0 +1,26 @@
+=================================================================
+  SCENE 03  —  إهانة الوريث المتكبر ورد البطل الهادئ
+  Timing : 0:20 – 0:30   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC03_PUBLIC_MOCKERY.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC03 — 0:20–0:30 — Jin-woo mocks Tae-hyun's salary; Tae-hyun answers with quiet dignity
+FRAMES: Start directly from uploaded start frame SC03_PUBLIC_MOCKERY.png (1080x1920, 30fps).
+CONTINUITY: Exact luxury Seoul grand cream-marble banquet hall, glowing crystal chandeliers, polished marble floor, and tall dark-walnut double entrance doors centered in the background. Strictly locked Korean live-action actors and outfits: ON THE LEFT, Kang Tae-hyun (29, tall handsome Korean man, plain dark-charcoal wool jacket over washed off-white crew t-shirt, dark grey trousers, worn black-and-white canvas sneakers); ON THE RIGHT, Park Jin-woo (31, burgundy velvet dinner blazer, white dress shirt, black bow-tie), Choi Seo-yeon (27, off-shoulder emerald-green silk evening gown, pearl earrings), Han Do-jin (32, silver-rimmed glasses, midnight-navy double-breasted suit, silver tie), and Yoon Mi-rae (26, champagne-ivory satin evening dress). Strictly front / front-three-quarter camera angle throughout; candid natural eye lines between characters only.
+ACTION AND TIMING:
+- 0.0s–5.2s: Jin-woo points mockingly at Tae-hyun's plain charcoal jacket, laughing arrogantly as he boasts about his luxury leather shoes.
+- 5.2s–6.0s: Jin-woo lowers his finger half an inch with a smug grin while Seo-yeon smiles coldly.
+- 6.0s–9.5s: Without moving a muscle or raising his voice, Tae-hyun looks straight into Jin-woo's eyes and replies calmly, making Jin-woo's smile stiffen.
+DIALOGUE: Jin-woo speaks arrogantly in Korean (01.0s–05.0s): "야, 네 일 년 치 월급으로도 내 구두 한 짝 못 사." Then Tae-hyun answers in a low calm Korean baritone (06.0s–09.2s): "사람 값을 옷으로 매기는 버릇은 여전하군."
+CAMERA: Static 35mm medium-full front shot on tripod; candid side-three-quarter gazes between the two men only.
+SOUND: Leather shoe shift on marble, natural clothing rustle, clear two-person Korean dialogue with hall reverb. Strictly ZERO music.
+END FRAME: Jin-woo's arrogant grin fading into irritation opposite calm unshaken Tae-hyun.
+NEGATIVE: NO background music, NO orchestral score, NO musical instruments, NO singing, NO rear camera, NO back-to-camera shots, NO looking directly into camera lens, NO camera zoom, NO whip pan, NO CGI/cartoon look, NO deformed hands or extra fingers, NO clothing swap, NO eyeglasses swap, NO on-screen text, NO subtitles, NO logos, NO watermarks.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC03_PUBLIC_MOCKERY.png في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. لا تعدّل على الكاميرا (ثابتة دائماً).
+=================================================================

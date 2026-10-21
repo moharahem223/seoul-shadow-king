@@ -1,0 +1,25 @@
+=================================================================
+  SCENE 07  —  أمر الطرد الفوري قبل فتح الأبواب
+  Timing : 1:00 – 1:10   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC07_EXPULSION_ORDER.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC07 — 1:00–1:10 — Jin-woo orders Tae-hyun thrown out immediately; Tae-hyun calmly says they are already here
+FRAMES: Start directly from uploaded start frame SC07_EXPULSION_ORDER.png (1080x1920, 30fps).
+CONTINUITY: Exact luxury Seoul grand cream-marble banquet hall, glowing crystal chandeliers, polished marble floor, and tall dark-walnut double entrance doors centered in the background. Strictly locked Korean live-action actors and outfits: ON THE LEFT, Kang Tae-hyun (29, tall handsome Korean man, plain dark-charcoal wool jacket over washed off-white crew t-shirt, dark grey trousers, worn black-and-white canvas sneakers); ON THE RIGHT, Park Jin-woo (31, burgundy velvet dinner blazer, white dress shirt, black bow-tie), Choi Seo-yeon (27, off-shoulder emerald-green silk evening gown, pearl earrings), Han Do-jin (32, silver-rimmed glasses, midnight-navy double-breasted suit, silver tie), and Yoon Mi-rae (26, champagne-ivory satin evening dress). Strictly front / front-three-quarter camera angle throughout; candid natural eye lines between characters only.
+ACTION AND TIMING:
+- 0.0s–6.0s: Jin-woo points sharply toward the exit, barking harshly at Tae-hyun to get out before Chairman Gu arrives; Seo-yeon glares fiercely.
+- 6.0s–9.5s: Tae-hyun calmly glances once toward the tall walnut double doors behind them and speaks quietly as the heavy brass handles click behind them.
+DIALOGUE: Jin-woo barks harshly in Korean (01.0s–05.8s): "구 회장님 오시기 전에 당장 이 거지부터 끌어내!" Tae-hyun replies calmly in Korean (06.8s–09.2s): "이미 늦었어. 도착했거든."
+CAMERA: Static 35mm front shot on locked tripod, zero camera shake.
+SOUND: Harsh echoing Korean command, calm low reply, followed at 09.0s by the heavy metallic click of grand double doors unlocking in the background. Strictly ZERO music.
+END FRAME: Heavy double doors beginning to unlatch in the center background as everyone turns slightly.
+NEGATIVE: NO background music, NO orchestral score, NO musical instruments, NO singing, NO rear camera, NO back-to-camera shots, NO looking directly into camera lens, NO camera zoom, NO whip pan, NO CGI/cartoon look, NO deformed hands or extra fingers, NO clothing swap, NO eyeglasses swap, NO on-screen text, NO subtitles, NO logos, NO watermarks.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC07_EXPULSION_ORDER.png في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. لا تعدّل على الكاميرا (ثابتة دائماً).
+=================================================================

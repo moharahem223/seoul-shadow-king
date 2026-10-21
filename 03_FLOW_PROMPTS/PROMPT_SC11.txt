@@ -1,0 +1,25 @@
+=================================================================
+  SCENE 11  —  ارتداء معطف السيادة وخاتم النفوذ الأسود
+  Timing : 1:40 – 1:50   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC11_CROWN_COAT_AND_RING.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC11 — 1:40–1:50 — Bodyguard drapes black Sovereign coat over Tae-hyun's shoulders as Chairman Gu presents the black signet ring
+FRAMES: Start directly from uploaded start frame SC11_CROWN_COAT_AND_RING.png (1080x1920, 30fps).
+CONTINUITY: Exact luxury Seoul grand cream-marble banquet hall, glowing crystal chandeliers, polished marble floor, and tall dark-walnut double entrance doors centered in the background. Strictly locked Korean live-action actors and outfits: ON THE LEFT, Kang Tae-hyun (29, tall handsome Korean man, plain dark-charcoal wool jacket over washed off-white crew t-shirt, dark grey trousers, worn black-and-white canvas sneakers); ON THE RIGHT, Park Jin-woo (31, burgundy velvet dinner blazer, white dress shirt, black bow-tie), Choi Seo-yeon (27, off-shoulder emerald-green silk evening gown, pearl earrings), Han Do-jin (32, silver-rimmed glasses, midnight-navy double-breasted suit, silver tie), and Yoon Mi-rae (26, champagne-ivory satin evening dress). Strictly front / front-three-quarter camera angle throughout; candid natural eye lines between characters only.
+ACTION AND TIMING:
+- 0.0s–4.5s: A black-suited aide reverently settles a heavy tailored long black cashmere overcoat over Tae-hyun's shoulders while Chairman Gu holds out a velvet box with both hands containing a black obsidian signet ring.
+- 4.5s–9.5s: Tae-hyun calmly lifts the black signet ring and slides it onto his right ring finger while Chairman Gu speaks humbly with head bowed; on the right, Jin-woo and Do-jin shrink back pale and trembling.
+DIALOGUE: Chairman Gu speaks humbly in respectful Korean (03.0s–08.2s): "이 성도, 이 그룹도… 모두 주군 발아래 있습니다."
+CAMERA: Static 35mm medium-full front shot, warm chandelier highlights catching the black cashmere coat and obsidian ring.
+SOUND: Heavy wool coat settling onto shoulders, small velvet ring box click, quiet reverent Korean voice, nervous swallow. Strictly ZERO music.
+END FRAME: Tae-hyun standing tall in the black Sovereign coat wearing the obsidian signet ring on the left.
+NEGATIVE: NO background music, NO orchestral score, NO musical instruments, NO singing, NO rear camera, NO back-to-camera shots, NO looking directly into camera lens, NO camera zoom, NO whip pan, NO CGI/cartoon look, NO deformed hands or extra fingers, NO clothing swap, NO eyeglasses swap, NO on-screen text, NO subtitles, NO logos, NO watermarks.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC11_CROWN_COAT_AND_RING.png في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. لا تعدّل على الكاميرا (ثابتة دائماً).
+=================================================================

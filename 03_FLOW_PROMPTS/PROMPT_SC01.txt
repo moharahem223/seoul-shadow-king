@@ -1,0 +1,26 @@
+=================================================================
+  SCENE 01  —  دخول الضيف المتواضع وسط نظرات الازدراء
+  Timing : 0:00 – 0:10   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC01_HUMBLE_ENTRANCE.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC01 — 0:00–0:10 — Modest Tae-hyun walks into the grand marble hall as elite guests mock his worn sneakers
+FRAMES: Start directly from uploaded start frame SC01_HUMBLE_ENTRANCE.png (1080x1920, 30fps).
+CONTINUITY: Exact luxury Seoul grand cream-marble banquet hall, glowing crystal chandeliers, polished marble floor, and tall dark-walnut double entrance doors centered in the background. Strictly locked Korean live-action actors and outfits: ON THE LEFT, Kang Tae-hyun (29, tall handsome Korean man, plain dark-charcoal wool jacket over washed off-white crew t-shirt, dark grey trousers, worn black-and-white canvas sneakers); ON THE RIGHT, Park Jin-woo (31, burgundy velvet dinner blazer, white dress shirt, black bow-tie), Choi Seo-yeon (27, off-shoulder emerald-green silk evening gown, pearl earrings), Han Do-jin (32, silver-rimmed glasses, midnight-navy double-breasted suit, silver tie), and Yoon Mi-rae (26, champagne-ivory satin evening dress). Strictly front / front-three-quarter camera angle throughout; candid natural eye lines between characters only.
+ACTION AND TIMING:
+- 0.0s–2.0s: Tae-hyun takes two calm, measured steps forward on the left side of the gleaming marble floor, expression tranquil.
+- 2.0s–7.5s: On the right, Do-jin leans behind his raised hand toward Seo-yeon, speaking in a mocking whisper while looking down at Tae-hyun's worn sneakers; Jin-woo smirks arrogantly.
+- 7.5s–10.0s: Tae-hyun comes to a quiet poised halt on the left without flinching; Seo-yeon raises one eyebrow in cold disdain.
+DIALOGUE: Only Do-jin speaks in natural mocking Korean (02.0s–07.0s): "저 낡은 운동화 좀 봐… 배달부가 길을 잘못 들었나 본데?" All other characters keep mouths closed.
+CAMERA: Static 35mm eye-level front wide shot on locked tripod; push-in <= 3%, natural shallow depth of field.
+SOUND: Soft rubber sneaker footsteps on marble, faint crystal glass clink, quiet hall room reverb, natural Korean speech. Strictly ZERO music.
+END FRAME: Tae-hyun standing calm on the left, facing the four wealthy guests smirking on the right.
+NEGATIVE: NO background music, NO orchestral score, NO musical instruments, NO singing, NO rear camera, NO back-to-camera shots, NO looking directly into camera lens, NO camera zoom, NO whip pan, NO CGI/cartoon look, NO deformed hands or extra fingers, NO clothing swap, NO eyeglasses swap, NO on-screen text, NO subtitles, NO logos, NO watermarks.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC01_HUMBLE_ENTRANCE.png في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. لا تعدّل على الكاميرا (ثابتة دائماً).
+=================================================================

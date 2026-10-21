@@ -1,0 +1,26 @@
+=================================================================
+  SCENE 10  —  الانحناء 90 درجة أمام ملك القوة وانهيار المتكبرين
+  Timing : 1:30 – 1:40   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC10_THE_DEEP_BOW.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC10 — 1:30–1:40 — Chairman Gu and guards bow 90 degrees to Tae-hyun; Jin-woo and Seo-yeon freeze in pure horror
+FRAMES: Start directly from uploaded start frame SC10_THE_DEEP_BOW.png (1080x1920, 30fps).
+CONTINUITY: Exact luxury Seoul grand cream-marble banquet hall, glowing crystal chandeliers, polished marble floor, and tall dark-walnut double entrance doors centered in the background. Strictly locked Korean live-action actors and outfits: ON THE LEFT, Kang Tae-hyun (29, tall handsome Korean man, plain dark-charcoal wool jacket over washed off-white crew t-shirt, dark grey trousers, worn black-and-white canvas sneakers); ON THE RIGHT, Park Jin-woo (31, burgundy velvet dinner blazer, white dress shirt, black bow-tie), Choi Seo-yeon (27, off-shoulder emerald-green silk evening gown, pearl earrings), Han Do-jin (32, silver-rimmed glasses, midnight-navy double-breasted suit, silver tie), and Yoon Mi-rae (26, champagne-ivory satin evening dress). Strictly front / front-three-quarter camera angle throughout; candid natural eye lines between characters only.
+ACTION AND TIMING:
+- 0.0s–3.0s: Chairman Gu and both black-suited bodyguards drop simultaneously into a deep, crisp 90-degree bow facing left toward Tae-hyun and hold the bow.
+- 2.0s–8.0s: Holding the deep 90-degree bow, Chairman Gu speaks loudly with trembling reverence across the silent marble hall.
+- 5.0s–10.0s: On the right, Seo-yeon gasps covering her mouth in shock, Do-jin turns pale, and Jin-woo trembles violently staring at Tae-hyun.
+DIALOGUE: Chairman Gu speaks in deep reverent Korean (02.0s–08.0s): "주군… 늦어서 죄송합니다! 모든 권한이 준비되었습니다!"
+CAMERA: Static 35mm wide-to-medium front shot capturing Tae-hyun upright on the left, Chairman Gu bowed 90 degrees center, and horrified elites on the right.
+SOUND: Synchronized suit rustle of three men bowing sharply, echoing reverent voice across marble columns, stunned gasp from Seo-yeon. Strictly ZERO music.
+END FRAME: Chairman Gu held in deep bow before serene sovereign Tae-hyun; elite trio pale with shock.
+NEGATIVE: NO background music, NO orchestral score, NO musical instruments, NO singing, NO rear camera, NO back-to-camera shots, NO looking directly into camera lens, NO camera zoom, NO whip pan, NO CGI/cartoon look, NO deformed hands or extra fingers, NO clothing swap, NO eyeglasses swap, NO on-screen text, NO subtitles, NO logos, NO watermarks.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC10_THE_DEEP_BOW.png في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. لا تعدّل على الكاميرا (ثابتة دائماً).
+=================================================================

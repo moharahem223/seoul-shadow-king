@@ -1,0 +1,26 @@
+=================================================================
+  SCENE 06  —  حديث النخبة بانبهار عن وصول «ملك القوة» دون علمهم أنه أمامهم
+  Timing : 0:50 – 1:00   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC06_TALK_OF_THE_SOVEREIGN.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC06 — 0:50–1:00 — Do-jin excitedly announces the imminent arrival of Chairman Gu and the unseen Sovereign
+FRAMES: Start directly from uploaded start frame SC06_TALK_OF_THE_SOVEREIGN.png (1080x1920, 30fps).
+CONTINUITY: Exact luxury Seoul grand cream-marble banquet hall, glowing crystal chandeliers, polished marble floor, and tall dark-walnut double entrance doors centered in the background. Strictly locked Korean live-action actors and outfits: ON THE LEFT, Kang Tae-hyun (29, tall handsome Korean man, plain dark-charcoal wool jacket over washed off-white crew t-shirt, dark grey trousers, worn black-and-white canvas sneakers); ON THE RIGHT, Park Jin-woo (31, burgundy velvet dinner blazer, white dress shirt, black bow-tie), Choi Seo-yeon (27, off-shoulder emerald-green silk evening gown, pearl earrings), Han Do-jin (32, silver-rimmed glasses, midnight-navy double-breasted suit, silver tie), and Yoon Mi-rae (26, champagne-ivory satin evening dress). Strictly front / front-three-quarter camera angle throughout; candid natural eye lines between characters only.
+ACTION AND TIMING:
+- 0.0s–2.0s: Do-jin taps the silver watch on his wrist with wide eager eyes.
+- 2.0s–8.2s: Do-jin speaks in hushed awe to Jin-woo and Seo-yeon about Chairman Gu arriving with the supreme unseen owner; Jin-woo and Seo-yeon straighten their posture eagerly.
+- 8.2s–10.0s: On the left foreground, Tae-hyun stands quietly listening, the faintest calm knowing expression crossing his eyes.
+DIALOGUE: Only Do-jin speaks in hushed excited Korean (02.0s–08.0s): "곧 구 회장님과 진짜 주인, 제왕께서 도착하신대! 얼굴 본 사람이 없대!"
+CAMERA: Static 35mm medium-full front shot, push-in <= 3%, candid natural acting.
+SOUND: Quiet watch cuff movement, excited hushed Korean voice echoing softly in marble hall. Strictly ZERO music.
+END FRAME: Jin-woo suddenly glancing sharply left at Tae-hyun wanting him gone before the VIPs enter.
+NEGATIVE: NO background music, NO orchestral score, NO musical instruments, NO singing, NO rear camera, NO back-to-camera shots, NO looking directly into camera lens, NO camera zoom, NO whip pan, NO CGI/cartoon look, NO deformed hands or extra fingers, NO clothing swap, NO eyeglasses swap, NO on-screen text, NO subtitles, NO logos, NO watermarks.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC06_TALK_OF_THE_SOVEREIGN.png في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. لا تعدّل على الكاميرا (ثابتة دائماً).
+=================================================================

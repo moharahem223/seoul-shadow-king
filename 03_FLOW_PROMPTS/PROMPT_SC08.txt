@@ -1,0 +1,26 @@
+=================================================================
+  SCENE 08  —  انفتاح الأبواب الكبرى ودخول الرئيس غو المهيب
+  Timing : 1:10 – 1:20   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC08_DOORS_SWING_OPEN.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC08 — 1:10–1:20 — Chairman Gu enters through the grand doors with black-suited bodyguards as Jin-woo rushes to greet him
+FRAMES: Start directly from uploaded start frame SC08_DOORS_SWING_OPEN.png (1080x1920, 30fps).
+CONTINUITY: Exact luxury Seoul grand cream-marble banquet hall, glowing crystal chandeliers, polished marble floor, and tall dark-walnut double entrance doors centered in the background. Strictly locked Korean live-action actors and outfits: ON THE LEFT, Kang Tae-hyun (29, tall handsome Korean man, plain dark-charcoal wool jacket over washed off-white crew t-shirt, dark grey trousers, worn black-and-white canvas sneakers); ON THE RIGHT, Park Jin-woo (31, burgundy velvet dinner blazer, white dress shirt, black bow-tie), Choi Seo-yeon (27, off-shoulder emerald-green silk evening gown, pearl earrings), Han Do-jin (32, silver-rimmed glasses, midnight-navy double-breasted suit, silver tie), and Yoon Mi-rae (26, champagne-ivory satin evening dress). Strictly front / front-three-quarter camera angle throughout; candid natural eye lines between characters only.
+ACTION AND TIMING:
+- 0.0s–3.5s: Through the open dark-walnut double doors, silver-haired Chairman Gu (62, black pinstripe 3-piece suit) strides forward crisply, flanked behind by two tall black-suited Korean guards.
+- 3.5s–8.0s: On the right, Jin-woo puts on a flattering eager smile, bows slightly, and steps out extending both hands respectfully toward Chairman Gu; Seo-yeon and Do-jin smile eagerly.
+- 8.0s–10.0s: Tae-hyun stands still on the left with hands relaxed at his sides.
+DIALOGUE: Only Jin-woo speaks in flattering polite Korean (03.0s–07.2s): "구 회장님! 기다리고 있었습니다!"
+CAMERA: Static 35mm wide front shot capturing full grand hall depth and all characters cleanly.
+SOUND: Heavy wooden doors swinging open, crisp synchronized leather footsteps of three men on marble, flattering Korean greeting. Strictly ZERO music.
+END FRAME: Chairman Gu striding close to Jin-woo's outstretched hands while Tae-hyun waits calmly on the left.
+NEGATIVE: NO background music, NO orchestral score, NO musical instruments, NO singing, NO rear camera, NO back-to-camera shots, NO looking directly into camera lens, NO camera zoom, NO whip pan, NO CGI/cartoon look, NO deformed hands or extra fingers, NO clothing swap, NO eyeglasses swap, NO on-screen text, NO subtitles, NO logos, NO watermarks.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC08_DOORS_SWING_OPEN.png في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. لا تعدّل على الكاميرا (ثابتة دائماً).
+=================================================================

@@ -1,0 +1,26 @@
+=================================================================
+  SCENE 02  —  همسات السخرية المتعالية من ملابسه البسيطة
+  Timing : 0:10 – 0:20   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC02_WHISPERS_OF_CONTEMPT.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC02 — 0:10–0:20 — Seo-yeon openly belittles Tae-hyun's plain market clothes
+FRAMES: Start directly from uploaded start frame SC02_WHISPERS_OF_CONTEMPT.png (1080x1920, 30fps).
+CONTINUITY: Exact luxury Seoul grand cream-marble banquet hall, glowing crystal chandeliers, polished marble floor, and tall dark-walnut double entrance doors centered in the background. Strictly locked Korean live-action actors and outfits: ON THE LEFT, Kang Tae-hyun (29, tall handsome Korean man, plain dark-charcoal wool jacket over washed off-white crew t-shirt, dark grey trousers, worn black-and-white canvas sneakers); ON THE RIGHT, Park Jin-woo (31, burgundy velvet dinner blazer, white dress shirt, black bow-tie), Choi Seo-yeon (27, off-shoulder emerald-green silk evening gown, pearl earrings), Han Do-jin (32, silver-rimmed glasses, midnight-navy double-breasted suit, silver tie), and Yoon Mi-rae (26, champagne-ivory satin evening dress). Strictly front / front-three-quarter camera angle throughout; candid natural eye lines between characters only.
+ACTION AND TIMING:
+- 0.0s–2.0s: Seo-yeon slowly sweeps her gaze from Tae-hyun's canvas sneakers up to his plain charcoal jacket with an icy smile.
+- 2.0s–7.5s: Seo-yeon tilts her chin up proudly beside Jin-woo and speaks clearly with cold upper-class contempt; Jin-woo and Do-jin smirk.
+- 7.5s–10.0s: Tae-hyun remains completely unbothered on the left with a serene gaze; Mi-rae lowers her eyes sympathetically on the far right.
+DIALOGUE: Only Seo-yeon speaks in cold haughty Korean (02.0s–07.0s): "시장통 옷차림으로 감히 어디라고 발을 들여놓지?" Others remain silent.
+CAMERA: Locked static 35mm medium-full front shot, zero shake, zero rear angle.
+SOUND: Quiet luxury hall ambiance, subtle silk dress rustle, crisp female Korean dialogue with natural marble room echo. Strictly ZERO music.
+END FRAME: Seo-yeon holding her cold smirk on the right; Jin-woo preparing to step forward toward Tae-hyun on the left.
+NEGATIVE: NO background music, NO orchestral score, NO musical instruments, NO singing, NO rear camera, NO back-to-camera shots, NO looking directly into camera lens, NO camera zoom, NO whip pan, NO CGI/cartoon look, NO deformed hands or extra fingers, NO clothing swap, NO eyeglasses swap, NO on-screen text, NO subtitles, NO logos, NO watermarks.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC02_WHISPERS_OF_CONTEMPT.png في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. لا تعدّل على الكاميرا (ثابتة دائماً).
+=================================================================

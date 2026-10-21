@@ -1,0 +1,26 @@
+=================================================================
+  SCENE 04  —  رمي النقود على الرخام لإذلاله
+  Timing : 0:30 – 0:40   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC04_CASH_HUMILIATION.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC04 — 0:30–0:40 — Jin-woo tosses cash bills onto the marble floor; Tae-hyun doesn't even look down
+FRAMES: Start directly from uploaded start frame SC04_CASH_HUMILIATION.png (1080x1920, 30fps).
+CONTINUITY: Exact luxury Seoul grand cream-marble banquet hall, glowing crystal chandeliers, polished marble floor, and tall dark-walnut double entrance doors centered in the background. Strictly locked Korean live-action actors and outfits: ON THE LEFT, Kang Tae-hyun (29, tall handsome Korean man, plain dark-charcoal wool jacket over washed off-white crew t-shirt, dark grey trousers, worn black-and-white canvas sneakers); ON THE RIGHT, Park Jin-woo (31, burgundy velvet dinner blazer, white dress shirt, black bow-tie), Choi Seo-yeon (27, off-shoulder emerald-green silk evening gown, pearl earrings), Han Do-jin (32, silver-rimmed glasses, midnight-navy double-breasted suit, silver tie), and Yoon Mi-rae (26, champagne-ivory satin evening dress). Strictly front / front-three-quarter camera angle throughout; candid natural eye lines between characters only.
+ACTION AND TIMING:
+- 0.0s–3.5s: Crisp banknotes flutter gently from Jin-woo's outstretched right hand and settle onto the polished cream marble floor near Tae-hyun's sneakers.
+- 2.0s–7.0s: Jin-woo sneers condescendingly at Tae-hyun, gesturing toward the fallen bills while Seo-yeon smirks coldly.
+- 7.0s–10.0s: Tae-hyun stands tall with head high, locking steady dark eyes on Jin-woo without ever glancing down at the money.
+DIALOGUE: Only Jin-woo speaks in sneering Korean (02.0s–07.0s): "자, 택시비나 챙겨서 조용히 뒷문으로 꺼져." All others silent.
+CAMERA: Locked static 35mm front full shot; push-in <= 2%, crisp focus on both faces and falling bills.
+SOUND: Crisp paper bills fluttering and landing lightly on marble, quiet breath tension, clear Korean voice. Strictly ZERO music.
+END FRAME: Banknotes lying untouched on the marble floor while Tae-hyun holds calm eye contact.
+NEGATIVE: NO background music, NO orchestral score, NO musical instruments, NO singing, NO rear camera, NO back-to-camera shots, NO looking directly into camera lens, NO camera zoom, NO whip pan, NO CGI/cartoon look, NO deformed hands or extra fingers, NO clothing swap, NO eyeglasses swap, NO on-screen text, NO subtitles, NO logos, NO watermarks.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC04_CASH_HUMILIATION.png في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. لا تعدّل على الكاميرا (ثابتة دائماً).
+=================================================================

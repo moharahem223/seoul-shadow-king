@@ -1,0 +1,26 @@
+=================================================================
+  SCENE 12  —  كلمة الملك الأخيرة وانكسار المتكبرين
+  Timing : 1:50 – 2:00   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC12_SOVEREIGN_VERDICT.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC12 — 1:50–2:00 — Sovereign Tae-hyun delivers the final ice-calm verdict while the arrogant elites bow deeply in terror
+FRAMES: Start directly from uploaded start frame SC12_SOVEREIGN_VERDICT.png (1080x1920, 30fps).
+CONTINUITY: Exact luxury Seoul grand cream-marble banquet hall, glowing crystal chandeliers, polished marble floor, and tall dark-walnut double entrance doors centered in the background. Strictly locked Korean live-action actors and outfits: ON THE LEFT, Kang Tae-hyun (29, tall handsome Korean man, plain dark-charcoal wool jacket over washed off-white crew t-shirt, dark grey trousers, worn black-and-white canvas sneakers); ON THE RIGHT, Park Jin-woo (31, burgundy velvet dinner blazer, white dress shirt, black bow-tie), Choi Seo-yeon (27, off-shoulder emerald-green silk evening gown, pearl earrings), Han Do-jin (32, silver-rimmed glasses, midnight-navy double-breasted suit, silver tie), and Yoon Mi-rae (26, champagne-ivory satin evening dress). Strictly front / front-three-quarter camera angle throughout; candid natural eye lines between characters only.
+ACTION AND TIMING:
+- 0.0s–2.5s: Standing tall on the left with the black Sovereign cashmere coat draped over his shoulders and Chairman Gu standing respectfully behind him, Tae-hyun looks calmly down toward Jin-woo.
+- 2.5s–8.5s: On the right, Jin-woo, Seo-yeon, and Do-jin bow deeply with trembling shoulders and pale terrified faces while Mi-rae watches Tae-hyun in quiet awe; Tae-hyun speaks one quiet devastating sentence.
+- 8.5s–10.0s: Hold steady on Tae-hyun's calm royal expression in silent absolute command.
+DIALOGUE: Only Tae-hyun speaks in a quiet, ice-calm sovereign Korean voice (02.0s–08.2s): "진우 씨… 이제 네 가문 전체가 내 구두 한 짝 값도 안 되는군."
+CAMERA: Static 35mm medium-full front shot, push-in <= 4% to final still hold.
+SOUND: Pin-drop silence in the marble palace, deep calm Korean voice carrying effortlessly with natural hall echo, trembling breath from Jin-woo. Strictly ZERO music.
+END FRAME: Sovereign Tae-hyun standing unshaken on the left while all arrogant elites remain deeply bowed on the right.
+NEGATIVE: NO background music, NO orchestral score, NO musical instruments, NO singing, NO rear camera, NO back-to-camera shots, NO looking directly into camera lens, NO camera zoom, NO whip pan, NO CGI/cartoon look, NO deformed hands or extra fingers, NO clothing swap, NO eyeglasses swap, NO on-screen text, NO subtitles, NO logos, NO watermarks.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC12_SOVEREIGN_VERDICT.png في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. لا تعدّل على الكاميرا (ثابتة دائماً).
+=================================================================
